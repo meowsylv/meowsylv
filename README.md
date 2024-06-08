@@ -1,5 +1,7 @@
 # Hii!!
 
+![Sylveon](https://www.papaproductions.cc/stuff/sylv-small.png)
+
 Hey! My name is potato, and welcome to my github page!
 
 Here's my [full bio](https://potato.is-a-kitty.cat/bio) btw
