@@ -1,6 +1,6 @@
 # Hii!!
 
-![Sylveon](https://www.papaproductions.cc/stuff/sylv-small.png)
+![Sylveon](https://meow.sylv.cat/stuff/sylv-small.png)
 
 Hey! My name is potato, and welcome to my github page!
 
